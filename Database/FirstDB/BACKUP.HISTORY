@@ -1,0 +1,5 @@
+Wed May 30 09:14:28 CST 2018:Backup started for database located at A:\javatoybox\Database\FirstDB to A:\javatoybox\test_data\DerbyBackup\2018-05-30\FirstDB.
+Wed May 30 09:14:31 CST 2018:Backup of data segment to A:\javatoybox\test_data\DerbyBackup\2018-05-30\FirstDB\seg0 completed. 
+Wed May 30 09:14:31 CST 2018:Copied log directory from A:\javatoybox\Database\FirstDB\log to A:\javatoybox\test_data\DerbyBackup\2018-05-30\FirstDB\log
+Wed May 30 09:14:31 CST 2018:Backup completed, log instant at (4,3256) 
+
